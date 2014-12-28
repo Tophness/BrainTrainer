@@ -15,4 +15,4 @@ This version I think was a slightly bugged one where I improved lots of things b
 
 Feel free to hack the shit out of it.
 I'm sowwy I don't comment anything I code.. I doen got time for dat sheit I know I'm terrible :(
-I can't even work out what half my shit does myself but w/e yolo.
+It's pretty basic anyway, u should be able to figure it out
