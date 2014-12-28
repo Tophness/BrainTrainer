@@ -2,6 +2,7 @@ BrainTrainer v1.0 Beta
 ============
 
 <a href="https://github.com/Tophness/BrainTrainer/blob/master/BrainTrainer/bin/Release/BrainTrainer.zip?raw=true">Download Linky</a>
+<a href="https://github.com/Tophness/BrainTrainer/blob/master/BrainTrainer/bin/Release/BrainTrainer_v0.5.zip?raw=true">Old Version</a> (stable for what it does, questions/answers are underneath so u need to take ur eyes off the play area)
 
 I've had this for ages and I keep giving less and less fucks about re-uploading my files to my website every time file servers lose all my shit,
 So I thought this would be a good reason to start putting my shit on github.
